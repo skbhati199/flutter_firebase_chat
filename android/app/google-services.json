@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31146024358",
+    "project_id": "githubproject-skbhati",
+    "storage_bucket": "githubproject-skbhati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31146024358:android:0dae902fbd1883d3394367",
+        "android_client_info": {
+          "package_name": "com.skbhati199.flutter_firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31146024358-n3i82i5074akn20nq21ukqjb1ok5bqff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgk-dS35o7S6y27caueBcZgT5jwG8dUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31146024358-n3i82i5074akn20nq21ukqjb1ok5bqff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
